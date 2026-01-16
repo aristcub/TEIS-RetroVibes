@@ -8,11 +8,11 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 > Plataforma e-commerce completa para la compra y venta de vinilos vintage y modernos. Proyecto universitario desarrollado con Django y metodologías ágiles.
-## 🎥 Video Demo
+## Video Demo
 
 <div align="center">
   
-  [![Video Demo RetroVibes](https://img.shields.io/badge/▶️_Ver_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([(https://www.youtube.com/watch?v=uS4ljAZ9Rtk&t=1s])
+  [![Video Demo RetroVibes](https://img.shields.io/badge/▶️_Ver_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/uS4ljAZ9Rtk)
   
   *Haz clic en el botón para ver la demostración completa del proyecto*
 
