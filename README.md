@@ -196,7 +196,7 @@ Proyecto desarrollado por estudiantes de Ingeniería de Sistemas de la Universid
   - Implementación de toda la interfaz de usuario
   - Desarrollo con HTML, CSS, Python y Bootstrap
   - Diseño de experiencia de usuario
-- **Desarrolladores Backend**: Equipo multidisciplinario
+- **Desarrolladores Backend**: Katherin Natalia Allín y Dixon Calderón 
   - Arquitectura de base de datos
   - Lógica de negocio
   - APIs y servicios
