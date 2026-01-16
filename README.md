@@ -51,9 +51,9 @@ RetroVibes es una aplicación web de comercio electrónico desarrollada en Djang
 - **Python**: Lógica del servidor y modelos de datos
 
 ### Frontend
-- **JavaScript** (46.5%): Interactividad y funcionalidades dinámicas
-- **CSS3** (44.2%): Estilos y diseño visual
-- **HTML5** (4.1%): Estructura de las páginas
+- **JavaScript**: Interactividad y funcionalidades dinámicas
+- **CSS3**: Estilos y diseño visual
+- **HTML5**: Estructura de las páginas
 - **Bootstrap**: Framework CSS para diseño responsivo
 
 ### Herramientas de Desarrollo
